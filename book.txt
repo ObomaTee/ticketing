@@ -1,0 +1,4 @@
+This are my notes for GIT
+Type of VCS
+MAVE
+DOCKER

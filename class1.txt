@@ -6,4 +6,5 @@ This is just for test, I expect to learn:
 Members of the class
 1.Dela
 2.Rejeeve
-3. Tony
+3.Tony
+Git is fun.

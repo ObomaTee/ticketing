@@ -1,0 +1,5 @@
+This is just for test, I expect to learn:
+1. Refreshed my memory
+2.learnt abotu git branches
+3. Open repos
+4. Push codes

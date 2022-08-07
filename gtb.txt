@@ -1,4 +1,3 @@
 This is your fist class in git
 Enjoy the class
-Good
 This is a nice experience

@@ -3,3 +3,4 @@ Enjoy the class
 This is a nice experience
 showing the head changes
 Add a new line of text from bugfix to master
+Lovely day

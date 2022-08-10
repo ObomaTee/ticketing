@@ -5,3 +5,4 @@ showing the head changes
 Add a new line of text from bugfix to master
 Lovely day
 This was a great training with GUI
+we are adding this line from our the GUi

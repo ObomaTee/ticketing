@@ -1,1 +1,2 @@
 we are adding this line from our the GUi
+We want to try pulling directly from the R.R
